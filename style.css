@@ -1,0 +1,36 @@
+h1
+{
+color: aqua;
+}
+
+#header
+{
+background-color: lightyellow; 
+display: flex;
+justify-content: space-between;   
+}
+
+#start
+{
+font-size: large;
+}
+
+#status
+{
+    background-color: aliceblue;
+}
+
+#footer
+{
+margin-top: 350px;
+color: white;
+text-align: center;
+background-color: blue;
+}
+
+canvas
+{
+border-radius: 25px;
+border-style: dashed;
+}
+
